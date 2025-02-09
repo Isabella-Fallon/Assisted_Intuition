@@ -1,19 +1,16 @@
-# Assisted_Intuition
-=======
-# my_flutter_web
+Assisted Intuition
+This repository contains the source code for the Assisted Intuition application.
 
-A new Flutter project.
+Getting Started
+Follow these instructions to run the application on your local machine or on your mobile device.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> b31f85c (Initial commit: Added Flutter frontend and Python backend)
+Prerequisites
+Flutter SDK: Install Flutter
+Android Studio or Xcode (for Android or iOS development)
+Running the Application on Android
+Set Up Your Android Device:
+Enable Developer Options and USB Debugging on your Android device.
+Connect Your Device:
+Connect your Android device to your computer via USB.
+Run the Application:
+flutter run
